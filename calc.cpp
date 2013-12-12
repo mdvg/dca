@@ -31,7 +31,7 @@ int main ()
 
      cout << "                     ************************************* \n"
 
-         << "                     * Calculadora basica para 2 numeros cambio más cosas* \n"
+         << "                     * Calculadora basica para 2 numeros* \n"
 
          << "                     ************************************* \n"
 
