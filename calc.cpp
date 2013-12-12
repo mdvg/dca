@@ -7,7 +7,7 @@ int main ()
 
 {
 
-    double n1, n2; int opc;
+    int n1, n2; int opc;
     cout << "                     ************************************* \n"
 
          << "                     * Calculadora basica para 2 numeros y tal pascual* \n"
